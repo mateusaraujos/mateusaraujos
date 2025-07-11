@@ -1,19 +1,19 @@
 <!-- markdownlint-disable MD033 -->
 
-<h1 align="center">👋 Olá! Eu sou o Mateus Araújo</h1>
-<p align="center">🚀 Full Stack Developer em formação • 🎓 Bacharel em Engenharia de Software • 🧠 Foco: Desktop Platform Engineering</p>
+<h1 align="center">👋 Hello! I'm Mateus Araújo</h1>
+<p align="center">🚀 Aspiring Full Stack Developer • 🎓 Bachelor of Software Engineering • 🧠 Focus: Desktop Platform Engineering</p>
 
 ---
 
-### 🧭 Meu lema
+### 🧭 My motto
 
-> **"Código limpo, direção clara e aprendizado constante: é assim que estou construindo minha carreira em tecnologia."**
+> **"Clean code, clear direction, and constant learning: this is how I'm building my career in technology."**
 
 ---
 
-### 🧰 Minhas ferramentas de trabalho
+### 🧰 My Working Tools
 
-#### Desenvolvimento Web e Runtimes
+#### Web Development and Runtimes
 
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5"/>
@@ -22,21 +22,21 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js"/>
 </div>
 
-#### Frameworks e Bibliotecas
+#### Frameworks and Libraries
 
 <div align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React"/>
   <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" alt="Express"/>
 </div>
 
-#### Bancos de Dados
+#### Databases
 
 <div align="center">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL"/>
 </div>
 
-#### Ferramentas e Infraestrutura
+#### Tools and Infrastructure
 
 <div align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/>
@@ -45,7 +45,7 @@
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" alt="Vercel"/>
 </div>
 
-#### Produtividade e IDE
+#### Productivity and IDE
 
 <div align="center">
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code"/>
@@ -55,39 +55,39 @@
 
 ---
 
-### 📚 Atualmente estudando
+### 📚 Currently studying
 
-- JavaScript moderno e DOM avançado
-- Estruturação de projetos e boas práticas
-- Git e controle de versão profissional
-- Foco em plataforma desktop (ex: Electron + React futuramente)
+- Modern JavaScript and advanced DOM
+- Project structure and best practices
+- Git and professional version control
+- Focus on desktop platforms (e.g., Electron + React in the future)
 
 ---
 
-### 🧪 Meus projetos em destaque
+### 🧪 Featured projects
 
 - [`Mini-App de Lista`](https://github.com/mateusaraujos/mini-app-lista) • [🔗 Vercel](https://mini-app-lista.vercel.app)
 - [`Projeto HTML + CSS`](https://github.com/mateusaraujos/projeto-html-css) • [🔗 GitHub Pages](https://mateusaraujos.github.io/projeto-html-css/)
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 GitHub Stats
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=mateusaraujos&show_icons=true&theme=dark&hide_border=false&count_private=true" alt="Mateus Araújo's GitHub Stats" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusaraujos&layout=compact&hide_border=false&langs_count=8&theme=dark" alt="Most Used Languages"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=mateusaraujos&show_icons=true&theme=dark&hide_border=false&count_private=true" alt="Mateus Araújo's GitHub Stats" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusaraujos&layout=compact&hide_border=false&langs_count=8&theme=dark" alt="Most Used Languages"/>
 </div>
 
 ---
 
-### 🌐 Onde me encontrar
+### 🌐 Where to find me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/mateusaraujos/)
 - 🧠 [GitHub](https://github.com/mateusaraujos)
-- 📫 Email: _em breve_
+- 📫 Email: _coming soon_
 
 ---
 
-### 🇬🇧 Versão em inglês
+### 🇧🇷 Portuguese Version
 
-Este perfil estará disponível também em inglês → [**README.en.md**](./README.en.md)
+This profile is also available in Portuguese → [**README.md**](./README.md)
