@@ -61,7 +61,7 @@
 
 ### 🧪 Featured projects
 
-🔗 Cada repositório com link de acesso ao deploy:
+🔗 Each repository with a deploy access link:
 
 <div align="center">
   <a href="https://github.com/mateusaraujos/mini-app-lista">
