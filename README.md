@@ -61,17 +61,26 @@
 
 ### 🧪 Meus projetos em destaque
 
-- [`Mini-App de Lista`](https://github.com/mateusaraujos/mini-app-lista) • [🔗 Vercel](https://mini-app-lista.vercel.app)
-- [`Projeto HTML + CSS`](https://github.com/mateusaraujos/projeto-html-css) • [🔗 GitHub Pages](https://mateusaraujos.github.io/projeto-html-css/)
+🔗 Cada repositório com link de acesso ao deploy:
+
+<div align="center">
+  <a href="https://github.com/mateusaraujos/mini-app-lista">
+    <img width="500em" src="https://github-readme-stats.vercel.app/api/pin?username=mateusaraujos&repo=mini-app-lista&theme=transparent" alt="Nome do Repositório: mini-app-lista">
+  </a>
+  <br/>
+  <a href="https://github.com/mateusaraujos/projeto-html-css">
+    <img width="500em" src="https://github-readme-stats.vercel.app/api/pin?username=mateusaraujos&repo=projeto-html-css&theme=transparent" alt="Nome do Repositório: projeto-html-css">
+  </a>
+</div>
 
 ---
 
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img width="500em" src="https://github-readme-stats.vercel.app/api?username=mateusaraujos&show_icons=true&theme=dark&hide_border=false&count_private=true" alt="Mateus Araújo's GitHub Stats"/>
+  <img width="500em" src="https://github-readme-stats.vercel.app/api?username=mateusaraujos&show_icons=true&theme=transparent&hide_border=false&count_private=true&include_all_commits=true&locale=pt-br" alt="Estatísticas do GitHub de Mateus Araújo"/>
   <br/>
-  <img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusaraujos&layout=compact&hide_border=false&langs_count=8&theme=dark" alt="Most Used Languages"/>
+  <img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusaraujos&layout=donut&hide_border=false&langs_count=8&theme=transparent&locale=pt-br" alt="Linguagens mais usadas"/>
 </div>
 
 ---
@@ -86,4 +95,4 @@
 
 ### 🇬🇧 Versão em inglês
 
-Este perfil estará disponível também em inglês → [**README.en.md**](./README.en.md)
+Disponível também em inglês → [**README.en.md**](./README.en.md)
