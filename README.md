@@ -94,12 +94,12 @@
 <div align="center">
   💼🧠📫
   <li style="list-style-type:none;">
-    <a href="https://www.linkedin.com/in/mateusaraujos/" target="_blank">
+    <a href="https://www.linkedin.com/in/mateusaraujos/" target="_blank" aria-label="Perfil de Mateus Araújo no LinkedIn">
       <img src="https://img.shields.io/badge/LinkedIn%20-%20Mateus%20Araújo-blue?logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
   </li>
   <li style="list-style-type:none;">
-    <a href="https://github.com/mateusaraujos">
+    <a href="https://github.com/mateusaraujos" aria-label="Perfil de Mateus Araújo no GitHub">
       <img src="https://img.shields.io/badge/GitHub%20-%20mateusaraujos-white?logo=github&logoColor=white" alt="GitHub">
     </a>
   </li>
