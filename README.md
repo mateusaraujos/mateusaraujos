@@ -82,9 +82,9 @@
 <h3 align="center">📊<br/> Estatísticas do GitHub</h3>
 
 <div align="center">
-  <img width="500em" src="https://github-readme-stats.vercel.app/api?username=mateusaraujos&show_icons=true&theme=transparent&hide_border=false&count_private=true&include_all_commits=true&locale=pt-br" alt="Estatísticas do GitHub de Mateus Araújo"/>
+  <img width="500em" src="https://github-readme-stats.vercel.app/api?username=mateusaraujos&show_icons=true&theme=radical&hide_border=false&count_private=true&include_all_commits=true&locale=pt-br" alt="Estatísticas do GitHub de Mateus Araújo"/>
   <br/>
-  <img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusaraujos&layout=donut&hide_border=false&langs_count=8&theme=transparent&locale=pt-br" alt="Linguagens mais usadas"/>
+  <img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusaraujos&layout=donut&hide_border=false&langs_count=8&theme=radical&locale=pt-br" alt="Linguagens mais usadas"/>
 </div>
 
 ---
@@ -114,6 +114,7 @@
 
 <p align="center">
   Disponível também em inglês
+  <br/>
   <a href="./README.en.md">
     → <strong>README.en.md</strong>
   </a>
