@@ -95,16 +95,16 @@
   💼🧠📫
   <li style="list-style-type:none;">
     <a href="https://www.linkedin.com/in/mateusaraujos/" target="_blank">
-      <strong>LinkedIn</strong>
+      <img src="https://img.shields.io/badge/LinkedIn%20-%20Mateus%20Araújo-blue?logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
   </li>
   <li style="list-style-type:none;">
     <a href="https://github.com/mateusaraujos">
-      <strong>GitHub</strong>
+      <img src="https://img.shields.io/badge/GitHub%20-%20mateusaraujos-white?logo=github&logoColor=white" alt="GitHub">
     </a>
   </li>
   <li style="list-style-type:none;">
-    Email: <span style="font-style:italic;">em breve</span>
+    E-mail: <span style="font-style:italic;">em breve</span>
   </li>
 </div>
 
