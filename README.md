@@ -8,7 +8,7 @@
 <h3 align="center">🧭<br/> Meu lema</h3>
 
 <blockquote align="center" style="font-weight:bold; color:grey;">
-  <p>Código limpo, direção clara e aprendizado constante:<br/> é assim que estou construindo minha carreira em tecnologia.</p>
+  <p>"Código limpo, direção clara e aprendizado constante:<br/> é assim que estou construindo minha carreira em tecnologia."</p>
 </blockquote>
 
 ---
