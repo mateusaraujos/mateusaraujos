@@ -1,7 +1,7 @@
 <!-- markdownlint-disable MD033 -->
 
 <h1 align="center">👋<br/> Olá! Eu sou o Mateus Araújo</h1>
-<p align="center">🚀🎓🧠<br/> Full Stack Developer em formação<br/> Bacharel em Engenharia de Software<br/> Foco: Desktop Platform Engineering</p>
+<p align="center">🚀<br/> Full Stack Developer em formação<br/> Bacharel em Engenharia de Software<br/> Foco: Desktop Platform Engineering</p>
 
 ---
 
@@ -55,10 +55,10 @@
 <h3 align="center">📚<br/> Atualmente estudando</h3>
 
 <div align="center">
-  <li style="list-style-type:none;">JavaScript moderno e DOM avançado</li>
-  <li style="list-style-type:none;">Estruturação de projetos e boas práticas</li>
-  <li style="list-style-type:none;">Git e controle de versão profissional</li>
-  <li style="list-style-type:none;">Foco em plataforma desktop (Electron + React futuramente)</li>
+  <p>JavaScript moderno e DOM avançado</p>
+  <p>Estruturação de projetos e boas práticas</p>
+  <p>Git e controle de versão profissional</p>
+  <p>Foco em plataforma desktop (Electron + React futuramente)</p>
 </div>
 
 ---
@@ -92,20 +92,17 @@
 <h3 align="center">🌐<br/> Onde me encontrar</h3>
 
 <div align="center">
-  💼🧠📫
-  <li style="list-style-type:none;">
+  <p>
     <a href="https://www.linkedin.com/in/mateusaraujos/" target="_blank" aria-label="Perfil de Mateus Araújo no LinkedIn">
       <img src="https://img.shields.io/badge/LinkedIn%20-%20Mateus%20Araújo-blue?logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
-  </li>
-  <li style="list-style-type:none;">
+  </p>
+  <p>
     <a href="https://github.com/mateusaraujos" aria-label="Perfil de Mateus Araújo no GitHub">
       <img src="https://img.shields.io/badge/GitHub%20-%20mateusaraujos-white?logo=github&logoColor=white" alt="GitHub">
     </a>
-  </li>
-  <li style="list-style-type:none;">
-    E-mail: <span style="font-style:italic;">em breve</span>
-  </li>
+  </p>
+  <p><!-- e-mail --></p>
 </div>
 
 ---
