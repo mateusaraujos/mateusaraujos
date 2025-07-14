@@ -84,7 +84,7 @@
 <div align="center">
   <img width="500em" src="https://github-readme-stats.vercel.app/api?username=mateusaraujos&show_icons=true&theme=radical&hide_border=false&count_private=true&include_all_commits=true&locale=en" alt="Mateus Araújo's GitHub Stats"/>
   <br/>
-  <img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusaraujos&layout=donut&hide_border=false&langs_count=8&theme=radical&locale=en" alt="Most Used Languages"/>
+  <img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusaraujos&layout=compact&hide_border=false&langs_count=8&theme=radical&locale=en" alt="Most Used Languages"/>
 </div>
 
 ---
