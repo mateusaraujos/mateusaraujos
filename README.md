@@ -72,11 +72,11 @@
 
 <div align="center">
   <a href="https://github.com/mateusaraujos">
-    <img width="500em" src="https://github-readme-stats.vercel.app/api?username=mateusaraujos&show_icons=true&theme=radical&hide_border=false&count_private=true&include_all_commits=true&locale=en" alt="Mateus Araújo's GitHub Stats"/>
+    <img width="500em" src="https://github-readme-stats.vercel.app/api?username=mateusaraujos&show_icons=true&theme=radical&hide_border=false&count_private=true&include_all_commits=true&locale=en&output=png" alt="Mateus Araújo's GitHub Stats"/>
   </a>
   <br/>
   <a href="https://github.com/mateusaraujos">
-    <img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusaraujos&layout=compact&hide_border=false&langs_count=8&theme=radical&locale=en" alt="Most Used Languages"/>
+    <img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusaraujos&layout=compact&hide_border=false&langs_count=8&theme=radical&locale=en&output=png" alt="Most Used Languages"/>
   </a>
 </div>
 
